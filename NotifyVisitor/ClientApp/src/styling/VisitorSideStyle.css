@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.user-registered-visitor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+label {
+    margin-bottom: 1em;
+}
+
+button {
+    margin-top: 1em;
+}

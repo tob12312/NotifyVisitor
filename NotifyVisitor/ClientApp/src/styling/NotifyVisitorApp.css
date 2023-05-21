@@ -1,0 +1,125 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.nav-menu-bar {
+    background-color: #37423b;
+}
+
+.users-table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.users-table-cell {
+    background-color: #dbceb0;
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 4px;
+    table-layout: fixed;
+}
+
+.search-bar {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 8px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #dbceb0; 
+}
+
+.modal-body {
+    background-color: #37423b;
+}
+
+.modal-frame {
+    background-Color: gainsboro;
+}
+
+.menu-bar {
+    background-Color: #7e4a35;
+}
+
+.edit-frame {
+    background-color: antiquewhite;
+    margin-bottom: 8px;
+    padding: 4px;
+}
+
+.checkVare {
+    width: 3em;
+    height: 2.5em;
+    padding-left: 0em;
+    padding-right: 0em;
+    padding-bottom: 10em;
+}
+
+.input-group-text {
+    width: 20%;
+}
+
+.alert-popup {
+    height: 200px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.container-padd {
+    padding-top: 0;
+    padding-right: 10px;
+    padding-bottom: 0;
+    padding-left: 10px;
+}
+
+.button-header-with {
+    width: 11em
+}
+
+.qr-card-screen {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.text-right {
+   text-align: right;
+}
+
+.color-navBar {
+    background-color: #37423b;
+}
+
+.color-menuBar {
+    background-color: #7e4a35;
+}
+
+.color-tableHeader {
+    background-color: #dbceb0;
+}
+
+.color-grey {
+    background-color: gainsboro;
+}
+
+.dropdown-fullsize {
+    width: 100%;
+}
